@@ -79,6 +79,9 @@ https://getgophish.com/
 
 Phishing framework for social engineering attacks.
 
+https://medium.com/@networksecurity/oleoutlook-bypass-almost-every-corporate-security-control-with-a-point-n-click-gui-37f4cbc107d0#.wcaf6uc3e
+
+OLE Outlook Bypass for malicious file attachments.
 
 
 Open Threat Intelligence
@@ -188,6 +191,14 @@ http://digital-forensics.sans.org/community/summits
 
 SANS Summit related talks and presentations on IR and Forensics.
 
+https://digital-forensics.sans.org/summit-archives/DFIR_Summit/Johnny-AppCompatCache-the-Ring-of-Malware-Brice-Daniels-and-Mary-Singh.pdf
+
+AppCompatCache and other AMCache analysis.
+
+https://n0where.net/intrusion-hunting-a-practical-guide/
+
+Practical Intrusion Hunting
+
 
 SIEM/Big Data/Analytics
 -----------------------
@@ -293,6 +304,10 @@ https://cyberarms.wordpress.com/2015/10/04/anti-virus-bypass-with-shellter-5-1-o
 
 Shellter for AV Bypass
 
+http://securitypadawan.blogspot.ca/2016/01/enumerating-excluded-antivirus-locations.html
+
+Enumerating excluded AV locations for post-execution offense.
+
 
 Malware Analysis, Reverse Engineering, Assembly, Research
 ---------------------------------------------------------
@@ -349,3 +364,11 @@ Defending against Mimikatz
 https://github.com/mozilla/MozDef
 
 Incident Handling platform for processing events and helping to automate handling and security related ticketing workflows.
+
+https://blogs.technet.microsoft.com/askpfeplat/2015/12/28/local-administrator-password-solution-laps-implementation-hints-and-security-nerd-commentary-including-mini-threat-model/
+
+Local administrator password handling solution from Microsoft.
+
+https://technet.microsoft.com/en-US/library/mt634654.aspx
+
+Fantastic guide from Microsoft on implementing the principle of least privilege. 
