@@ -83,6 +83,10 @@ https://medium.com/@networksecurity/oleoutlook-bypass-almost-every-corporate-sec
 
 OLE Outlook Bypass for malicious file attachments.
 
+https://drive.google.com/file/d/0B0KLoHg_gR_XQnV4RVhlNl96MHM/view
+
+Reflected file download attack vector.
+
 
 Open Threat Intelligence
 ------------------------
