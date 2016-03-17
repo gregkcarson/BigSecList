@@ -2,12 +2,15 @@
 A large repository of links spanning all topics in information security.
 
 Honeypots
+---------
 
-https://github.com/secureworks/dcept - A honeytoken-based tripwire for Microsoft's Active Directory. Honeytokens are pieces of information intentionally littered on system so they can be discovered by an intruder.
+https://github.com/secureworks/dcept
+A honeytoken-based tripwire for Microsoft's Active Directory. Honeytokens are pieces of information intentionally littered on system so they can be discovered by an intruder.
 
 http://www.redblue.team/2015/09/using-modern-honey-network-to-detect.html
 
 Using Modern Honey Net for honeypot deployment with Docker and Splunk integration.
+
 
 Exploit Development
 
