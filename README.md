@@ -88,9 +88,11 @@ https://drive.google.com/file/d/0B0KLoHg_gR_XQnV4RVhlNl96MHM/view
 Reflected file download attack vector. Really cool but requires identifying RFD vuln in publicly trusted website that could be patched at a moments notice.
 
 https://www.trustedsec.com/july-2015/malicious-htas/
+
 HTA downloads are pretty useful, security prompts are friendly and HTA files have a lot of functionality. 
 
 https://lcamtuf.blogspot.ca/2012/05/yes-you-can-have-fun-with-downloads.html
+
 2 Really nice techniques on display here both involve downloads or hosting sites that appear to come from legit domains.
 
 
