@@ -16,6 +16,22 @@ Using Modern Honey Net for honeypot deployment with Docker and Splunk integratio
 Exploit Development
 -------------------
 
+###### Introductory Topics
+
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+Classic 12 part series from Corelan on exploit dev from basics to fairly advanced includes some sections on ROP gadgets.
+
+http://www.fuzzysecurity.com/tutorials.html
+
+Lots of good stuff here on Windows and Linux exploit dev. A good alternative to Corelan with a different writing style.
+
+http://www.securitysift.com/windows-exploit-development-part-1-basics/
+
+Mike Czumak has a good series of articles introducing Windows exploit development. Again, it covers a lot of the same stuff as Corelan and Fuzzysecurity but he has a different writing style and may explain things better for you.
+
+###### Advanced Topics
+
 https://github.com/jhaddix/tbhm/blob/master/README.md
 
 Bug hunters methodology to help guide the exploit dev process.
@@ -32,17 +48,11 @@ http://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-t
 
 Fuzzing start to finish with AFL
 
-https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+http://census-labs.com/media/choronzon-zeronights-2015.pdf
 
-Classic 12 part series from Corelan on exploit dev from basics to fairly advanced includes some sections on ROP gadgets.
+Good paper on fuzzing.
 
-http://www.fuzzysecurity.com/tutorials.html
-
-Lots of good stuff here on Windows and Linux exploit dev. A good alternative to Corelan with a different writing style.
-
-http://www.securitysift.com/windows-exploit-development-part-1-basics/
-
-Mike Czumak has a good series of articles introducing Windows exploit development. Again, it covers a lot of the same stuff as Corelan and Fuzzysecurity but he has a different writing style and may explain things better for you.
+###### Tools & Alternative Resources
 
 https://n0where.net/awesome-windows-exploitation-resources/ 
 
@@ -52,9 +62,37 @@ https://github.com/stephenfewer/grinder
 
 Tool to help automate browser fuzzing and crash triage.
 
-http://census-labs.com/media/choronzon-zeronights-2015.pdf
+http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
 
-Good paper on fuzzing.
+Big list of exploit dev links.
+
+###### Books
+
+http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441
+
+Hacking: The Art of Exploitation
+
+http://www.amazon.com/The-Shellcoders-Handbook-Discovering-Exploiting/dp/047008023X
+
+Shellcoders Handbook
+
+http://www.amazon.com/Bug-Hunters-Diary-Software-Security/dp/1593273851
+
+Bug Hunter's Diary
+
+###### Training
+
+http://opensecuritytraining.info/Exploits1.html
+
+Intro to Software Exploits
+
+https://www.corelan-training.com/
+
+Official Corelan training - some of the best in the business.
+
+http://www.sans.org/course/advance-exploit-development-pentetration-testers
+
+SANS 760 exploit dev course.
 
 
 Social Engineering
